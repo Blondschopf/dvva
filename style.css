@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: #222531;
+    color: whitesmoke;
+}
+
+#container{
+    max-width: 700px;
+    margin: 3em auto;
+}
+
+circle {
+    fill: darkorange;
+}
